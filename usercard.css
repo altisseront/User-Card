@@ -1,0 +1,40 @@
+.container {
+    border: 2px solid grey;
+    width: 60%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: honeydew;
+}
+.topbar {
+    position: relative;
+    top: 0px;
+    background-color: rgb(55, 217, 223);
+    height: 32%;
+    width: 100%;
+}
+.usercircle {
+    position: relative;
+    padding: 40px;
+    top: 30px;
+    left: 0px;
+    height: 180px;
+    margin-bottom: 0px;
+}
+.name {
+    position: relative;
+}
+.text{
+    position: relative;
+    left: 25px;
+}
+.gear {
+    height: 20px;
+    margin-right: 20px;
+}
+.mapmarker {
+    height: 20px;
+}
+a {
+    color: blue;
+}
